@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋
+I'm Marivic!
+![f36d2783ac3099cde493066550b64f8b](https://github.com/user-attachments/assets/a57cbc62-5a54-4edd-9f60-086cf4fd3815)
 
 <!--
 **marivicenopia/marivicenopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
